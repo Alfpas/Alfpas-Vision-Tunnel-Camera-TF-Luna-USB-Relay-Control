@@ -278,6 +278,3 @@ Jika repository sudah memiliki remote `origin`, periksa dengan `git remote -v` d
 ## 📝 Catatan pengembangan
 
 Rencana berikutnya meliputi pengambilan gambar dua kamera, burst capture, pengaturan fokus berdasarkan jarak objek (sekitar 50–200 cm, bergantung kalibrasi), serta sinkronisasi sensor dan pencahayaan. Semua fitur tersebut memerlukan pengujian ulang pada hardware dan PC tujuan.
-
-# Vision-Tunnel-Camera-TF-Luna-USB-Relay-Control
-# Vision-Tunnel-Camera-TF-Luna-USB-Relay-Control
